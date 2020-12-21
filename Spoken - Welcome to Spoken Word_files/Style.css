@@ -1,0 +1,87 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: skyblue;
+    background-image: url(mara.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.container{
+    width: 1100px;
+    height: auto;
+    margin-left: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.logo{
+    background-image: url(Mylogo.png);
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    float: left;
+     
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+nav{
+    width: 900px;
+    height: 55px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.185);
+    margin-top: 50px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+    
+}
+
+nav a{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.welcome{
+    color: white;
+    margin-top: 10px;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: left;
+
+}
+
+.message{
+    color: rgba(0, 0, 0, 0.678);
+    margin-top: 200px;
+    font-size: 30px;
+    padding-right: 250px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+.map{
+    padding-top: 20px;
+    width: 100px;
+}
+
+footer{
+    background-color: rgba(159, 184, 14, 0.089);
+    color: white;
+    margin-top: 10px;
+    width: 900px;
+    height: 30px;
+    font-size: 30px;
+    padding-top: 10px;
+    
+}
